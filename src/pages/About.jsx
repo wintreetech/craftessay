@@ -8,13 +8,13 @@ function About() {
   return (
     <div className="pt-[3.75rem] lg:pt-[4.25rem] overflow-hidden">
       <Hero
-        subheading={"Igniting Academic Brilliance"}
+        subheading={"Igniting Writing Excellence"}
         heading={"Turning Aspirations into Achievements"}
         description={
-          "Step into a world where your academic goals are our mission, and every essay is designed to showcase your strengths and drive success."
+          "Step into a world where your goals are our mission, and every essay is crafted to showcase your strengths and drive success."
         }
         buttonURL={"/order"}
-        buttontext={"Transforming Vision into Academic Excellence"}
+        buttontext={"Transforming Vision into Writing Excellence"}
       />
 
       {/* <div
@@ -67,17 +67,17 @@ function About() {
                   className="block lg:hidden mb-9 mx-auto"
                 />
                 <h2 className="font-manrope font-bold text-4xl lg:text-5xl text-black mb-9 max-lg:text-center">
-                  Experience Academic Excellence with craftessay
+                  Experience Writing Excellence with craftessay
                 </h2>
                 <p className="font-normal text-xl leading-8 text-gray-500 max-lg:text-center max-w-2xl mx-auto">
-                  We're more than just a writing service - we're a symbol of
-                  academic excellence. With a rich history of delivering
-                  top-notch papers since our establishment, we take pride in our
-                  commitment to quality and creativity. Our team of dedicated
-                  writers ensures that every assignment is meticulously
-                  researched and carefully crafted to meet the highest academic
-                  standards. Trust craftessay to exceed your expectations and
-                  guide you towards academic success.
+                  We're more than just a writing service – we're a symbol of
+                  excellence in communication and critical thinking. With a rich
+                  history of delivering top-notch papers since our
+                  establishment, we take pride in our commitment to quality and
+                  creativity. Our team of dedicated writers ensures that every
+                  assignment is meticulously researched and carefully crafted to
+                  meet the highest standards. Trust craftessay to exceed your
+                  expectations and guide you toward meaningful success.
                 </p>
               </div>
             </div>
@@ -863,10 +863,10 @@ function About() {
             Proficiency
           </h3>
           <p className="py-4 text-gray-500 text-md dark:text-gray-300">
-            Our team comprises experienced writers and editors with deep
-            knowledge across various academic disciplines. Their proficiency
-            ensures that every essay is well-researched, coherent, and
-            compelling.
+            Our team consists of skilled writers and editors with extensive
+            expertise across diverse areas of study. Their proficiency ensures
+            each essay is thoroughly researched, logically structured, and
+            engaging.
           </p>
         </div>
         <div className="w-full px-4 py-4 mt-6 bg-white rounded-lg shadow-lg sm:w-1/2 md:w-1/2 lg:w-1/4 sm:mt-16 md:mt-20 lg:mt-24 dark:bg-gray-800">
@@ -879,10 +879,9 @@ function About() {
             Reliability
           </h3>
           <p className="py-4 text-gray-500 text-md dark:text-gray-300">
-            We understand the importance of deadlines in academic life. Our
-            commitment to timely delivery ensures that students can trust us to
-            provide their essays when they need them, without compromising on
-            quality.
+            We know that meeting deadlines is essential to your success. That’s
+            why we’re dedicated to delivering every essay on time—without
+            sacrificing quality.
           </p>
         </div>
         <div className="w-full px-4 py-4 mt-6 bg-white rounded-lg shadow-lg sm:w-1/2 md:w-1/2 lg:w-1/4 dark:bg-gray-800">
@@ -904,10 +903,10 @@ function About() {
       <div className="max-w-screen-xl mx-auto px-6 md:px-8 lg:px-12 pt-6 lg:pt-12 pb-6 lg:pb-12">
         <div className="bg-custom-gradient py-8 lg:py-12 px-6 relative text-center">
           <p className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white mb-4">
-            Take the Next Step Towards Your Academic Goals!
+            Move Closer to Your Goals with Confidence
           </p>
           <p className="prose text-white lg:prose-lg xl:prose-2xl mx-auto">
-            Effortlessly Elevate Your Academic Performance with Our Services!
+            Achieve More, Stress Less—Elevate Your Work with Our Help!
           </p>
           <div className="h-12 w-12 bg-custom-gradient left-1/2 -ml-6 -bottom-6 absolute transform rotate-45">
             &nbsp;
@@ -919,7 +918,7 @@ function About() {
             className="bg-[#a7325ef2] hover:bg-[#901945f2] transition ease-in-out duration-150 text-base text-white px-4 lg:px-8 py-4 inline-block font-bold rounded-md shadow-xl"
             data-aos="zoom-in"
           >
-            Unlock Your Academic Success Today!
+            Unlock Your Success Today!
           </a>
         </div>
       </div>
