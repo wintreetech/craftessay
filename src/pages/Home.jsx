@@ -10,6 +10,7 @@ import {
   Faq,
   Platform,
 } from "../components/index";
+import { IoWarningOutline } from "react-icons/io5";
 import Cta from "../components/Home/Cta";
 import { HeroImg } from "../assets";
 import { Link } from "react-router-dom";
@@ -31,8 +32,9 @@ function Home() {
 
   return (
     <div className="pt-[3.75rem] lg:pt-[4.25rem] overflow-hidden">
-      <div className=" text-center ">
-        Any kind of academic use is prohibited
+      <div className=" text-center flex justify-center items-center bg-primary text-white">
+        <IoWarningOutline />
+        &nbsp; Any kind of academic use is prohibited
       </div>
       <Hero
         subheading={"Welcome to craftessay"}
