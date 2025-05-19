@@ -32,9 +32,10 @@ function WorkSample() {
           </h2>
           <p className="mt-6 text-gray-700 ">
             Explore a curated team of top-tier essay writers, carefully selected
-            for their exceptional skills, academic prowess, and commitment to
-            delivering outstanding content that meets your highest standards.
-            track record in delivering top-notch academic content.
+            for their exceptional skills and commitment to delivering
+            outstanding content that meets your highest standards. Our writers
+            have a proven track record of producing impactful, high-quality work
+            across various fields
           </p>
         </div>
 

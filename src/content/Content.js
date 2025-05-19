@@ -60,7 +60,7 @@ export const services = [
     icon: IoShieldCheckmarkOutline,
     name: "Plagiarism Checking",
     description:
-      "Originality is paramount in academic writing. Before delivering your paper, we use advanced plagiarism detection software to ensure that it is free of any plagiarized content.",
+      "Originality is our top priority. Before delivering your essay, we use advanced plagiarism detection tools to ensure your content is 100% unique and authentic.",
   },
   {
     icon: MdOutlineSwitchAccessShortcut,
@@ -130,7 +130,7 @@ export const serviceFeatures = [
   {
     icon: Custom,
     name: "Custom Essay Writing",
-    content: "Tailored essays for academic levels and subjects.",
+    content: "Tailored essays for various topics and needs.",
   },
   {
     icon: Rewrite,
@@ -274,7 +274,7 @@ export const FaqContent = [
   {
     question: "What subjects and topics does craftessay.com cover?",
     answer:
-      "We cover a wide range of subjects and topics, from literature and history to science and mathematics. Our team is made up of professionals with diverse backgrounds, so we can handle virtually any academic subject or discipline. If you're unsure, feel free to reach out to our support team for assistance.",
+      "We cover a wide range of subjects and topics—from literature and history to science and technical fields. Our team includes professionals with diverse backgrounds, so we're equipped to handle nearly any topic or area of interest. Not sure if we cover your subject? Our support team is here to help!",
   },
   {
     question: "How does craftessay ensure the quality of its papers?",
@@ -420,7 +420,7 @@ export const platformcontent = [
   {
     title: "Quality Assurance",
     description:
-      "We guarantee high-quality essays tailored to your specific requirements and academic standards.",
+      "We guarantee high-quality essays tailored to your specific requirements and professional standards.",
   },
   {
     title: "Customized Approach",
@@ -428,9 +428,9 @@ export const platformcontent = [
       "Each essay is crafted from scratch, ensuring it meets your unique needs and instructions.",
   },
   {
-    title: "Improved Grades",
+    title: "Writing Confidence",
     description:
-      "With our help in writing high-quality essays, we will guide you towards achieving better grades and academic success.",
+      "With our help in writing high-quality essays, we’ll support you in achieving your goals—clearly, confidently, and stress-free.",
   },
   {
     title: "Flexible Services",

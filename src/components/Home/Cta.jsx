@@ -81,7 +81,7 @@ function Cta() {
       <div className="mx-auto py-16 sm:px-6 lg:px-8">
         <div className="relative isolate overflow-hidden px-6 py-24 text-center sm:rounded-3xl sm:px-16">
           <h2 className="font-nudge-extrabold mx-auto max-w-2xl text-3xl font-bold uppercase tracking-wide sm:text-4xl">
-            Unleash Your Academic Potential
+            Unleash Your Full Potential Through Powerful Writing
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600">
             Take the next step and see your potential soar. Enjoy one week of

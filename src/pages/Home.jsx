@@ -31,17 +31,19 @@ function Home() {
 
   return (
     <div className="pt-[3.75rem] lg:pt-[4.25rem] overflow-hidden">
+      <div className=" text-center ">
+        Any kind of academic use is prohibited
+      </div>
       <Hero
         subheading={"Welcome to craftessay"}
         heading={"Unlock Effortless Essay Writing"}
         description={
-          "Facing academic challenges? Our customized essays will help you succeed without the stress."
+          "Need help with your writing? Our customized essays are crafted to fit your unique needs—stress-free and on time."
         }
         buttontext={"Let`s connect"}
         buttonURL={"/order"}
       />
       <Popup handleClose={handleClosePopup} show={showPopup} />
-
       <Client />
       <Platform />
       <WorkSample />

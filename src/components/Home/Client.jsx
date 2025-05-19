@@ -42,7 +42,7 @@ function Client() {
               icon: <AiFillOpenAI size={40} className="mb-5 text-primary" />,
               title: "Research Challenges",
               description:
-                "Access to a vast library of academic resources. Our researchers will conduct thorough and relevant research tailored to your needs. You can also request annotated bibliographies or research summaries.",
+                "Access a wide range of reliable resources. Our researchers will conduct thorough and relevant research tailored to your needs. You can also request summaries or detailed reports based on your project requirements.",
             },
             {
               icon: (

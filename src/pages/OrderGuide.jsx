@@ -93,7 +93,7 @@ function OrderGuide() {
 
                       <li>
                         They provide detailed instructions, including the topic,
-                        academic level, word count, and deadline.
+                        required level of detail, word count, and deadline.
                       </li>
                     </div>
                   </div>

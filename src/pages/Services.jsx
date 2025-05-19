@@ -16,7 +16,7 @@ function Services() {
     subheading: "Our Offerings",
     heading: "Discover Our Top-Tier Solutions",
     description:
-      "Boost your academic performance with our skilled writing services. Personalized essays, crafted with precision and guaranteed quality.",
+      "Boost your success with our skilled writing services. Personalized essays, crafted with precision and guaranteed quality.",
     buttontext: "Explore Our Services",
     buttonURL: "#showservice",
   };
@@ -104,11 +104,11 @@ function Services() {
         >
           <div className="mx-auto flex max-w-[58rem] flex-col items-center space-y-4 text-center">
             <h2 className="font-bold text-2xl leading-[1.1] sm:text-2xl md:text-4xl">
-              Academic Writing Services
+              Professional Writing Services
             </h2>
             <p className="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
-              Our comprehensive suite of services ensures academic success,
-              offering tailored assistance at every stage of your journey.
+              Our comprehensive suite of services ensures your success, offering
+              tailored assistance at every stage of your project.
             </p>
           </div>
 

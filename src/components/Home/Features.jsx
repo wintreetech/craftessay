@@ -15,9 +15,8 @@ function Features() {
           </h1>
 
           <p className="mt-4 text-gray-500 xl:mt-6 dark:text-gray-300">
-            Our wide range of services is designed to drive your academic
-            success, providing personalized support at every step of your
-            journey.
+            Our wide range of services is designed to support your success,
+            offering personalized assistance every step of the way.
           </p>
 
           <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">

@@ -50,6 +50,9 @@ function App() {
 
   return (
     <>
+      <div className=" text-center py-2">
+        Any kind of academic use is prohibited
+      </div>
       <RouterProvider router={router} />
     </>
   );
