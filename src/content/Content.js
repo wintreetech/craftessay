@@ -109,13 +109,13 @@ export const services = [
 export const serviceFeatures = [
   {
     icon: Admission,
-    name: "Admission Essay Writing",
-    content: "Crafting compelling application essays.",
+    name: "Personal Impact Narrative",
+    content: "Shaping your unique story with influence and clarity.",
   },
   {
     icon: Thesis,
-    name: "Thesis and Dissertation Assistance",
-    content: "Guidance from proposal to completion.",
+    name: "Longform Project Strategy",
+    content: "Structured support from concept to completion.",
   },
   {
     icon: Edit,
@@ -144,8 +144,8 @@ export const serviceFeatures = [
   },
   {
     icon: Term,
-    name: "Term Paper Writing",
-    content: "Skilled support for semester-end papers",
+    name: "Critical Brief Development",
+    content: "Expertly crafted content for high-impact delivery.",
   },
 
   {
