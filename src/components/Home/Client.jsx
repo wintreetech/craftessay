@@ -28,9 +28,9 @@ function Client() {
           {[
             {
               icon: <AiFillBuild size={40} className="mb-5 text-primary" />,
-              title: "Tight Deadlines",
+              title: "Priority Project Handling",
               description:
-                "Swift turnaround times for essay delivery. Option to choose urgency level for orders. Our writers will help you with urgent assignments.",
+                "Accelerated delivery options tailored to your timeline. Choose the turnaround speed that fits your schedule — we keep things moving when time is critical.",
             },
             {
               icon: <AiFillGolden size={40} className="mb-5 text-primary" />,
