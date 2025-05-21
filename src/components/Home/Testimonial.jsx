@@ -37,7 +37,7 @@ function Testimonial() {
               >
                 <div className="flex items-center mb-4">
                   <div className="overflow-hidden rounded-full w-12 h-12 bg-gray-50 border border-gray-200">
-                    <img src="https://i.pravatar.cc/100?img=69" alt="Ava M." />
+                    <img src="src/assets/Jacob M.png" alt="Ava M." />
                   </div>
                   <div className="flex-grow pl-3">
                     <h6 className="font-bold text-sm uppercase text-gray-600">
@@ -71,7 +71,7 @@ function Testimonial() {
               >
                 <div className="flex items-center mb-4">
                   <div className="overflow-hidden rounded-full w-12 h-12 bg-gray-50 border border-gray-200">
-                    <img src="https://i.pravatar.cc/100?img=61" alt="Liam R." />
+                    <img src="src/assets/Daniel H.png" alt="Daniel H." />
                   </div>
                   <div className="flex-grow pl-3">
                     <h6 className="font-bold text-sm uppercase text-gray-600">
@@ -106,10 +106,7 @@ function Testimonial() {
               >
                 <div className="flex items-center mb-4">
                   <div className="overflow-hidden rounded-full w-12 h-12 bg-gray-50 border border-gray-200">
-                    <img
-                      src="https://i.pravatar.cc/100?img=24"
-                      alt="Sophia L."
-                    />
+                    <img src="src/assets/Emma W.png" alt="Emma W." />
                   </div>
                   <div className="flex-grow pl-3">
                     <h6 className="font-bold text-sm uppercase text-gray-600">
