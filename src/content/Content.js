@@ -88,9 +88,9 @@ export const services = [
   },
   {
     icon: IoNewspaperOutline,
-    name: "Research Paper Writing",
+    name: "Market Research Writing",
     description:
-      "Need help with a research paper? Our team of researchers and writers can assist you in conducting thorough research, organizing your findings, and presenting them in a clear and coherent manner.",
+      "Our team of skilled writers and researchers can assist you in gathering relevant information, organizing key insights, and presenting them in a clear, professional format tailored to your needs..",
   },
   {
     icon: SiGoogleassistant,
@@ -139,8 +139,8 @@ export const serviceFeatures = [
   },
   {
     icon: Research,
-    name: "Research Paper Writing",
-    content: "Comprehensive assistance in research and analysis.",
+    name: "Market Research Writing",
+    content: "Insightful Research Backed by Clear Analysis",
   },
   {
     icon: Term,
