@@ -181,14 +181,14 @@ function About() {
                 <div className="w-full px-3 sm:px-4 xl:w-1/2">
                   <div className="py-3 sm:py-4">
                     <img
-                      src="https://i.ibb.co/gFb3ns6/image-1.jpg"
+                      src="https://images.pexels.com/photos/5877567/pexels-photo-5877567.jpeg?auto=compress&cs=tinysrgb&w=600"
                       alt=""
                       className="w-full rounded-2xl"
                     />
                   </div>
                   <div className="py-3 sm:py-4">
                     <img
-                      src="https://i.ibb.co/rfHFq15/image-2.jpg"
+                      src="https://images.pexels.com/photos/6549912/pexels-photo-6549912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                       alt=""
                       className="w-full rounded-2xl"
                     />
@@ -197,7 +197,7 @@ function About() {
                 <div className="w-full px-3 sm:px-4 xl:w-1/2">
                   <div className="relative z-10 my-4">
                     <img
-                      src="https://i.ibb.co/9y7nYCD/image-3.jpg"
+                      src="https://images.pexels.com/photos/5208875/pexels-photo-5208875.jpeg?auto=compress&cs=tinysrgb&w=600"
                       alt=""
                       className="w-full rounded-2xl"
                     />
