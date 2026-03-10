@@ -27,7 +27,7 @@ function Footer() {
 
             <div className="flex mt-6  space-x-6 text-gray-600">
               <a
-                href="https://www.facebook.com/profile.php?id=61566978513226"
+                href="https://www.facebook.com/profile.php?id=61587013867683"
                 className="hover:opacity-75"
                 target="_blank"
                 rel="noreferrer"
