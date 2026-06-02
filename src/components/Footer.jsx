@@ -72,9 +72,9 @@ function Footer() {
             <div>
               <p className="font-medium">Company</p>
               <nav className="flex flex-col mt-4 space-y-2 text-base text-gray-500">
-                <Link to={"/pricing"} className="hover:opacity-75">
+                {/* <Link to={"/pricing"} className="hover:opacity-75">
                   Pricing
-                </Link>
+                </Link> */}
                 <Link to={"/about"} className="hover:opacity-75">
                   About
                 </Link>
@@ -100,19 +100,19 @@ function Footer() {
               <p className="font-medium">Company Info</p>
               <nav className="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
                 <a href="#" className="hover:opacity-75">
-                  Address :- The Watermark 9-15 Ribbleton Lane, Preston,
+                  Address : The Watermark 9-15 Ribbleton Lane, Preston,
                   Lancashire, United Kingdom PR1 5EZ
                 </a>
-                <p>Registration Number :- 15727670</p>
-                <p>Working Hours :- 9am CET to 6pm CET</p>
+                <p>Registration Number : 15727670</p>
+                <p>Working Hours : 9am CET to 6pm CET</p>
                 <a
                   href="mailto:support@craftessay.com"
                   className="hover:opacity-75"
                 >
-                  Email :- support@craftessay.com
+                  Email : support@craftessay.com
                 </a>
                 <a href="+44 1253260284" className="hover:opacity-75">
-                  Phone :- +44 1253260284
+                  Phone : +44 1253260284
                 </a>
                 <img src={visa} className="w-full" />
               </nav>
