@@ -32,10 +32,10 @@ function App() {
           path: "/services",
           element: <Services />,
         },
-        {
-          path: "/pricing",
-          element: <Pricing />,
-        },
+        // {
+        //   path: "/pricing",
+        //   element: <Pricing />,
+        // },
         {
           path: "/orderguide",
           element: <OrderGuide />,
