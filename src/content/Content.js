@@ -203,10 +203,6 @@ export const navlinks = [
     name: "Services",
   },
   {
-    URL: "/order",
-    name: "Pricing",
-  },
-  {
     URL: "/contact-us",
     name: "Contact",
   },
