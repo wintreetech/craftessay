@@ -51,7 +51,7 @@ function Home() {
       <WorkSample />
       <Features />
       {/* <Benefits /> */}
-      <Pricing />
+      {/* <Pricing /> */}
       <Testimonial />
       <Faq />
       <Cta />
